@@ -1,0 +1,6 @@
+@Registration_Assignment_WBIAPI_HostAddress = http://localhost:5015
+
+GET {{Registration_Assignment_WBIAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
