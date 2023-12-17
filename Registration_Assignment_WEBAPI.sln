@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registration_Assignment_WBIAPI", "Registration_Assignment_WBIAPI\Registration_Assignment_WBIAPI.csproj", "{E74CF3D9-614D-476D-A3E0-319283EF385A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registration_Assignment_WEBAPI", "Registration_Assignment_WBIAPI\Registration_Assignment_WEBAPI.csproj", "{E74CF3D9-614D-476D-A3E0-319283EF385A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{B601045F-B6C4-4A83-920B-F146A4B04746}"
 EndProject
